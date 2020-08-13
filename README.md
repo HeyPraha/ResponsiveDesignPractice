@@ -1,2 +1,2 @@
 # ResponsiveDesignPractice
-Open in https://heypraha.github.io/ResponsiveDesignPractice/index.html
+Open in https://wxu417.github.io/ResponsiveDesignPractice/index.html
